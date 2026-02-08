@@ -1,0 +1,5 @@
+{
+  "name": "OSAS Telemonitor Closed-Loop Sim",
+  "description": "Interactive simulation of the OSAS telemonitoring ecosystem, visualizing data flow from patient sensors through the CDSS algorithm to the clinical dashboard.",
+  "requestFramePermissions": []
+}
